@@ -1,0 +1,24 @@
+Teacher
+Simin Navabi
+222999
+icsiscool
+Teacher
+Susan Tsin
+222998
+hmst
+Teacher
+Joyce Mak
+222997
+advanced
+Teacher
+Ioana Manda
+300000
+calc
+Student
+Adrian Chung
+325247039
+flex
+Student
+Kiran Patel
+333245675
+bio

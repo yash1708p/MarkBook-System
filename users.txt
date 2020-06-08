@@ -1,0 +1,20 @@
+Teacher
+Simin Navabi
+222999
+icsiscool
+Teacher
+Susan Tsin
+222998
+hmst
+Student
+Adrian Chung
+325247039
+flex
+Student
+Kiran Patel
+333245675
+bio
+Student
+Yash Patel
+111111
+read
